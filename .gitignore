@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env*
+keys.json
+*.xlsx
+*.xls
+*.csv
+*_active_audit.txt
